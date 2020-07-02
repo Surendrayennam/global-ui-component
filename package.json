@@ -1,0 +1,23 @@
+{
+  "name": "global-ui-comonent",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surendrayennam/global-ui-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surendrayennam/global-ui-component/issues"
+  },
+  "homepage": "https://github.com/Surendrayennam/global-ui-component#readme",
+  "dependencies": {
+    "@sitecore-jss/sitecore-jss-react": "^13.1.0",
+    "react": "^16.13.1"
+  }
+}
